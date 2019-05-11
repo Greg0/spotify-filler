@@ -13,6 +13,7 @@ const redirectURI = "http://localhost:8080/callback"
 var (
 	auth = spotify.NewAuthenticator(
 		redirectURI,
+		spotify.ScopeUserLibraryRead,
 		spotify.ScopeUserLibraryModify,
 		spotify.ScopePlaylistModifyPublic,
 		spotify.ScopePlaylistModifyPrivate,
