@@ -5,6 +5,11 @@ Simple executable to add your local music to playlist or library on spotify.
 
 How to use?
 -----------
+Define environmen variables
+- `SPOTIFY_ID`
+- `SPOTIFY_SECRET`
+
+With data from your spotify application https://developer.spotify.com/dashboard/applications
 
 Just drag&drop directory on executable or pass directory path as first argument. Application will search for music files with extensions
 - `.3gp`
