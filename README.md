@@ -13,7 +13,7 @@ Just drag&drop directory on executable or pass directory path as first argument.
 - `.aac`
 - `.aif`
 - `.au`
-- `.fla`
+- `.flac`
 - `.m4a`
 - `.ogg`
 - `.oga`
