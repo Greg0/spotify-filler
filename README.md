@@ -5,7 +5,7 @@ Simple executable to add your local music to playlist or library on spotify.
 
 How to use?
 -----------
-Define environmen variables
+Define environment variables
 - `SPOTIFY_ID`
 - `SPOTIFY_SECRET`
 
